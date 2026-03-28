@@ -37,15 +37,6 @@ The dataset contains various URL-based features such as:
   * `1` → Malicious
   * `0` → Legitimate
 
----
-
-## How to Run
-
-Run the main script:
-
-```bash
-python code_new.py
-```
 
 ---
 
