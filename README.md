@@ -39,24 +39,7 @@ The dataset contains various URL-based features such as:
 
 ---
 
-## Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/phishing-detection.git
-cd phishing-detection
-```
-
-### 2. Install dependencies
-
-```bash
-pip install pandas numpy scikit-learn tldextract
-```
-
----
-
-## 🚀 How to Run
+## How to Run
 
 Run the main script:
 
